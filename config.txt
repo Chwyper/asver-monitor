@@ -1,0 +1,8 @@
+HOST1=astra-versa.tail9fe332.ts.net
+USER1=asver
+PASS1=password_device1
+
+# Konfigurasi Device 2
+HOST2=astra-versa.tail9fe332.ts.net
+USER2=asver1
+PASS2=password_device2
